@@ -1,7 +1,7 @@
 # Portfolio
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/nickqs02/Portfolio/assets/128196591/c2ab2033-2d25-4ff0-8385-3df2df375536)
+![image](https://github.com/nickqs02/Portfolio/assets/128196591/fea81b17-772d-4c32-bbf9-9adce875355e)
 
 ## Ferramentas utilizadas:
 
